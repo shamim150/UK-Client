@@ -9,10 +9,10 @@ import React from 'react'
 const page = () => {
   return (
     <div>
+      <Client/>
       <Banner/>
       <Contact/>
       <Wego/>
-      <Client/>
       <Buy/>
       <Footer/>
     </div>
