@@ -17,7 +17,7 @@ const Contact = () => {
         />
         <h1 className="text-white text-2xl sm:text-5xl md:text-[50px] font-bold text-center  mt-4 max-w-[900px] pb-4">
           Donald Trump says he would offer Elon Musk a cabinet or advisory role
-          if elected President". As the presidential election at the door elon
+          if elected President. As the presidential election at the door elon
           and trump both going for an alliance and things going crazy
           with these two...
         </h1>
