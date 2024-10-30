@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const Contact = () => {
   return (
-    <div className="bg-gradient-to-r from-cyan-200 to-blue-700 relative py-0 md:py-20">
+    <div className="bg-gradient-to-r from-[#abb2f7] to-[#f87fbb] relative py-0 md:py-20">
       <div className="absolute top-0 left-0 bg-black h-full w-full opacity-20"></div>
 
       <div className="flex flex-col items-center pt-10 z-10 relative px-4">
