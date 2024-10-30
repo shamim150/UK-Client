@@ -5,8 +5,7 @@ import Image from 'next/image'
 const Client = () => {
   return (
     <div className='p-1 md:p-4 bg-gradient-to-r from-[#646fcf] to-[#4b0328] '>
-
-      <p className='text-white text-[80px] text-center font-bold leading-none '>$ TEA</p>
+<p className='text-white text-[40px] sm:text-[60px] md:text-[80px] lg:text-[100px] text-center font-bold leading-none'>$TEA</p>
 
 
 
