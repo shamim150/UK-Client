@@ -1,7 +1,6 @@
 import React from "react";
 import image2 from ".././app/assets/image2.jpg";
 import Image from "next/image";
-import Link from "next/link";
 
 const Contact = () => {
   return (
