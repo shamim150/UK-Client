@@ -4,7 +4,7 @@ import logo1 from '../app/assets/logo.jpg'
 
 const Buy = () => {
   return (
-    <div className='bg-gradient-to-r from-[#535bad] to-[#ee077b]  py-5 px-2 md:px-16 lg:px-24'>
+    <div className=' py-5 px-2 md:px-16 lg:px-24'>
       <h2 className='text-3xl sm:text-4xl md:text-5xl lg:text-[60px] text-white text-center font-bold'>
         Buy Token Now
       </h2>
