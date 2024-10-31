@@ -14,12 +14,12 @@ const page = () => {
       style={{ backgroundImage: `url(${image1.src})` }}>
         
       </div>
+      <Footer />
       <Client />
       {/* <Banner /> */}
       <Contact />
       <Wego />
       {/* <Buy /> */}
-      <Footer />
     </div>
   );
 };

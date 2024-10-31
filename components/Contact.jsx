@@ -14,7 +14,7 @@ const Contact = () => {
           src={image2}
           priority
         />
-        <h1 className="text-white sm:text-xl md:text-[35px] font-bold text-center leading-relaxed sm:text-xl md:text-[35px] md:leading-snug lg:leading-normal  mt-10 max-w-[900px]">
+        <h1 className="text-white font-bold text-center leading-tight sm:text-xl md:text-[35px] md:leading-tight lg:leading-tight  mt-10 max-w-[900px] mb-4">
           Donald Trump says he would offer Elon Musk a cabinet or advisory role
           if elected President. As the presidential election at the door elon
           and trump both going for an alliance and things going crazy
